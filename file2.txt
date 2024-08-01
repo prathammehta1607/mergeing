@@ -1,1 +1,8 @@
 n the feture branch
+<<<<<<< Updated upstream
+=======
+jsdhfjkdshfjkdshfjkhdsjkfhkj
+
+
+i ama add ing stas=h cxhanges
+>>>>>>> Stashed changes
