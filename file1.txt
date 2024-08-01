@@ -10,9 +10,3 @@ i am ra
 
 i am rahul
 
-<<<<<<< Updated upstream
-diff
-
-=======
-i am trying stasdhing
->>>>>>> Stashed changes
