@@ -10,6 +10,3 @@ i am ra
 
 i am rahul
 
-
-revert
-
